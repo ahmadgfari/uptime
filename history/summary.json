@@ -22,19 +22,19 @@
     "url": "https://www.99.co/id",
     "icon": "https://favicons.githubusercontent.com/www.99.co",
     "slug": "99-co-indonesia",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1652,
-    "timeDay": 1652,
-    "timeWeek": 1652,
-    "timeMonth": 1652,
-    "timeYear": 1652,
+    "status": "up",
+    "uptime": "90.38%",
+    "uptimeDay": "90.38%",
+    "uptimeWeek": "90.38%",
+    "uptimeMonth": "90.38%",
+    "uptimeYear": "90.38%",
+    "time": 1662,
+    "timeDay": 1662,
+    "timeWeek": 1662,
+    "timeMonth": 1662,
+    "timeYear": 1662,
     "dailyMinutesDown": {
-      "2021-06-24": 0
+      "2021-06-24": 87
     }
   }
 ]
