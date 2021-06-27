@@ -4,9 +4,9 @@
     "url": "https://www.rumah123.com",
     "icon": "https://favicons.githubusercontent.com/www.rumah123.com",
     "slug": "rumah123",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 481,
     "timeMonth": 481,
     "timeYear": 481,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-27": 0
+    }
   },
   {
     "name": "99.co Indonesia",
@@ -23,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/www.99.co",
     "slug": "99-co-indonesia",
     "status": "up",
-    "uptime": "97.87%",
+    "uptime": "98.05%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.87%",
-    "uptimeMonth": "97.87%",
-    "uptimeYear": "97.87%",
+    "uptimeWeek": "98.05%",
+    "uptimeMonth": "98.05%",
+    "uptimeYear": "98.05%",
     "time": 1648,
     "timeDay": 1845,
     "timeWeek": 1648,
