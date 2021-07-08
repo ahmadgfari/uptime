@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
-    "time": 479,
-    "timeDay": 486,
-    "timeWeek": 454,
-    "timeMonth": 479,
-    "timeYear": 479,
+    "time": 480,
+    "timeDay": 502,
+    "timeWeek": 468,
+    "timeMonth": 480,
+    "timeYear": 480,
     "dailyMinutesDown": {
       "2021-06-27": 25
     }
@@ -24,19 +24,19 @@
     "url": "https://www.99.co/id",
     "icon": "https://favicons.githubusercontent.com/www.99.co",
     "slug": "99-co-indonesia",
-    "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
-    "time": 1648,
-    "timeDay": 744,
-    "timeWeek": 1459,
-    "timeMonth": 1648,
-    "timeYear": 1648,
+    "status": "up",
+    "uptime": "99.11%",
+    "uptimeDay": "92.89%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.11%",
+    "time": 1597,
+    "timeDay": 830,
+    "timeWeek": 1357,
+    "timeMonth": 1597,
+    "timeYear": 1597,
     "dailyMinutesDown": {
-      "2021-07-08": 0,
+      "2021-07-08": 102,
       "2021-06-24": 87
     }
   }
