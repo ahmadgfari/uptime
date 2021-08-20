@@ -1,7 +1,7 @@
 url: https://www.99.co/id
-status: degraded
-code: 502
-responseTime: 13680
-lastUpdated: 2021-08-20T14:43:46.155Z
+status: down
+code: 503
+responseTime: 296
+lastUpdated: 2021-08-20T14:53:38.509Z
 startTime: Thu Jun 24 2021 04:08:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
