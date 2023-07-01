@@ -9,15 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 1855,
-    "timeDay": 2215,
-    "timeWeek": 1874,
-    "timeMonth": 1926,
-    "timeYear": 1618,
-    "dailyMinutesDown": {
-      "2022-07-01": 23
-    }
+    "uptimeYear": "100.00%",
+    "time": 1846,
+    "timeDay": 1713,
+    "timeWeek": 1869,
+    "timeMonth": 1971,
+    "timeYear": 1630,
+    "dailyMinutesDown": {}
   },
   {
     "name": "99.co Indonesia",
@@ -29,16 +27,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
-    "time": 838,
-    "timeDay": 471,
-    "timeWeek": 635,
-    "timeMonth": 709,
-    "timeYear": 693,
+    "uptimeYear": "99.88%",
+    "time": 836,
+    "timeDay": 582,
+    "timeWeek": 651,
+    "timeMonth": 719,
+    "timeYear": 691,
     "dailyMinutesDown": {
       "2023-03-01": 173,
-      "2023-02-28": 410,
-      "2022-07-01": 23
+      "2023-02-28": 410
     }
   }
 ]
