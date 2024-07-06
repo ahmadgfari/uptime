@@ -1,7 +1,7 @@
 url: https://www.rumah123.com
-status: down
-code: 520
-responseTime: 397
-lastUpdated: 2024-07-06T19:45:10.181Z
+status: degraded
+code: 200
+responseTime: 5337
+lastUpdated: 2024-07-06T19:55:22.913Z
 startTime: 2021-06-24T04:08:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
