@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.86%",
-    "time": 1667,
-    "timeDay": 204,
-    "timeWeek": 164,
+    "time": 1665,
+    "timeDay": 195,
+    "timeWeek": 166,
     "timeMonth": 316,
-    "timeYear": 1533,
+    "timeYear": 1495,
     "dailyMinutesDown": {
       "2024-08-14": 21,
       "2024-07-17": 18,
@@ -42,18 +42,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.99.co.ico",
     "slug": "99-co-indonesia",
     "status": "down",
-    "uptime": "63.83%",
+    "uptime": "63.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 214,
-    "timeDay": 82,
-    "timeWeek": 77,
+    "timeDay": 77,
+    "timeWeek": 76,
     "timeMonth": 78,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2024-09-04": 41,
+      "2024-09-05": 41,
+      "2024-09-04": 1440,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
@@ -416,8 +417,7 @@
       "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
-      "2023-09-07": 1440,
-      "2023-09-06": 1440
+      "2023-09-07": 1440
     }
   }
 ]
