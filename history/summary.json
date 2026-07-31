@@ -6,14 +6,14 @@
     "slug": "rumah123",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "80.23%",
+    "uptimeDay": "83.28%",
     "uptimeWeek": "97.18%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.91%",
     "time": 287,
-    "timeDay": 95,
-    "timeWeek": 110,
-    "timeMonth": 138,
+    "timeDay": 90,
+    "timeWeek": 115,
+    "timeMonth": 137,
     "timeYear": 283,
     "dailyMinutesDown": {
       "2025-10-09": 89,
@@ -28,18 +28,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.99.co.ico",
     "slug": "99-co-indonesia",
     "status": "down",
-    "uptime": "40.03%",
+    "uptime": "40.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 112,
-    "timeDay": 60,
+    "timeDay": 20,
     "timeWeek": 30,
-    "timeMonth": 29,
+    "timeMonth": 28,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2026-07-30": 1016,
+      "2026-07-31": 109,
+      "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
@@ -402,8 +403,7 @@
       "2025-08-04": 1440,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
-      "2025-08-01": 1440,
-      "2025-07-31": 1440
+      "2025-08-01": 1440
     }
   }
 ]
